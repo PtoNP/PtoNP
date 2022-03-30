@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Konstantin MOTKIN@PtoNP
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently studying at LE WAGON
+- 🌱 I’m currently studying at LE WAGON (FR - LYON)
 
 
 <!---
